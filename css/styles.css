@@ -1,0 +1,55 @@
+/*Fonts*/
+@font-face {
+	font-family:"WCManoNegraBta";
+	src:url("../fonts/WCManoNegraBta.otf");
+}
+
+#gopalaside {
+	width:50%;
+	height:100%;
+	background-color:white;
+	float:left;
+}
+
+#veganarmyside {
+	width:50%;
+	height:100%;
+	background-color:black;
+	float:right;
+}
+
+#gplogo{
+	margin-top:3%;
+	margin-left:28%;
+	
+
+}
+
+#valogo {
+	margin-top:-8%;
+	float:right;
+	margin-bottom:-12%;
+	margin-right:4%;
+}
+
+h1 {
+	font-family:"WCManoNegraBta";
+	font-size:120px;
+}
+
+h1.gp {
+	margin-top:5%;
+	color:#bb1f24;
+	text-align:center;
+}
+
+h1.va {
+	color:white;
+	text-align:center;
+
+}
+
+a:link {
+	text-decoration:none;
+
+}
